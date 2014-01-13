@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoaIntroNet.Domain", "SoaIntroNet.Domain\SoaIntroNet.Domain.csproj", "{77349B05-90B8-40C7-99B4-7FD71B1EB22A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoaIntroNet.Repository", "SoaIntroNet.Repository\SoaIntroNet.Repository.csproj", "{B67E5FEB-0111-4BFF-A19C-D5529BF8C5CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoaIntroNet.Service", "SoaIntroNet.Service\SoaIntroNet.Service.csproj", "{66222124-1388-4B68-9009-00E24C0791B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoaIntroNet.WebProxy", "SoaIntroNet.WebProxy\SoaIntroNet.WebProxy.csproj", "{C3120C11-FAE9-4D9C-A7F7-46E83DA0FB20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoaTester", "..\..\TestProjects\SoaTester\SoaTester.csproj", "{BF8A3858-C5FC-4F41-8F33-DFA729E9E33E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77349B05-90B8-40C7-99B4-7FD71B1EB22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77349B05-90B8-40C7-99B4-7FD71B1EB22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77349B05-90B8-40C7-99B4-7FD71B1EB22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77349B05-90B8-40C7-99B4-7FD71B1EB22A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B67E5FEB-0111-4BFF-A19C-D5529BF8C5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67E5FEB-0111-4BFF-A19C-D5529BF8C5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67E5FEB-0111-4BFF-A19C-D5529BF8C5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67E5FEB-0111-4BFF-A19C-D5529BF8C5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66222124-1388-4B68-9009-00E24C0791B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66222124-1388-4B68-9009-00E24C0791B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66222124-1388-4B68-9009-00E24C0791B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66222124-1388-4B68-9009-00E24C0791B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3120C11-FAE9-4D9C-A7F7-46E83DA0FB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3120C11-FAE9-4D9C-A7F7-46E83DA0FB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3120C11-FAE9-4D9C-A7F7-46E83DA0FB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3120C11-FAE9-4D9C-A7F7-46E83DA0FB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8A3858-C5FC-4F41-8F33-DFA729E9E33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8A3858-C5FC-4F41-8F33-DFA729E9E33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8A3858-C5FC-4F41-8F33-DFA729E9E33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8A3858-C5FC-4F41-8F33-DFA729E9E33E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
